@@ -10,7 +10,7 @@ import {
     X,
     Info,
 } from "lucide-react";
-import { Button } from "../ui/button";
+import { Button } from "../../ui/button";
 import { useMemo, useState, useEffect } from "react";
 import clsx from "clsx";
 

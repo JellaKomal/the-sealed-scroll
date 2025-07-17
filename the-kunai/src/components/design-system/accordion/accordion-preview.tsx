@@ -1,6 +1,6 @@
 import { LucideChevronDown } from "lucide-react";
 import { ComponentCombinationBrowser } from "../../utils/preview";
-import { Accordion } from "../../design-system/accordion";
+import { Accordion } from "./accordion";
 
 export default function AccordionCombinationViewer() {
     return (

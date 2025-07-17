@@ -1,7 +1,7 @@
 
 
 
-import { Alert } from "../../design-system/alert";
+import { Alert } from "./alert";
 import { ComponentPlayground } from "../../utils/playground";
 
 

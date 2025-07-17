@@ -1,4 +1,4 @@
-import { Alert } from "../../design-system/alert";
+import { Alert } from "./alert";
 import { ComponentCombinationBrowser } from "../../utils/preview";
 
 export function AlertPreview() {

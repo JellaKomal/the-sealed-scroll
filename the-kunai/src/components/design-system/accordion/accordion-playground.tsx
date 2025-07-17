@@ -1,4 +1,4 @@
-import { Accordion } from "../../design-system/accordion";
+import { Accordion } from "./accordion";
 import { ComponentPlayground } from "../../utils/playground";
 
 export default function AccordionPlaygroundPage() {
